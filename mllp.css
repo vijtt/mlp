@@ -258,16 +258,16 @@ div#bg-1-5{
 
 }
 
-.tabletka {
+.1 {
 
-  animation: tabletka 5s infinite;
+  animation: 1 5s infinite;
 
 }
 
 
 
 
-@keyframes tabletka {
+@keyframes 1 {
 
   0% {
 
@@ -284,16 +284,16 @@ div#bg-1-5{
 }
 
 
-.tabletka1 {
+.2 {
 
-  animation: tabletka1 5s infinite;
+  animation: 2 5s infinite;
 
 }
 
 
 
 
-@keyframes tabletka1 {
+@keyframes 2 {
 
   0% {
 
@@ -310,16 +310,16 @@ div#bg-1-5{
 }
 
 
-.tabletka2 {
+.3 {
 
-  animation: tabletka2 5s infinite;
+  animation: 3 5s infinite;
 
 }
 
 
 
 
-@keyframes tabletka2 {
+@keyframes 3 {
 
   0% {
 
